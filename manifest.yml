@@ -5,4 +5,4 @@ applications:
   - route: ns-pal-tracker-review.apps.evans.pal.pivotal.io
 
   env:
-    WELCOME_MESSAGE: Hello
+    WELCOME_MESSAGE: Hello from the review environment
