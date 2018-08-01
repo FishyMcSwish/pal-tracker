@@ -6,7 +6,6 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-@Component
 public class InMemoryTimeEntryRepository implements TimeEntryRepository{
 
     List<TimeEntry> entries = new ArrayList<>();

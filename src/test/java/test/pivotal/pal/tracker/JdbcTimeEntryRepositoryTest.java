@@ -6,6 +6,7 @@ import io.pivotal.pal.tracker.JdbcTimeEntryRepository;
 import io.pivotal.pal.tracker.TimeEntry;
 import io.pivotal.pal.tracker.TimeEntryRepository;
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Test;
 import org.springframework.jdbc.core.JdbcTemplate;
 
